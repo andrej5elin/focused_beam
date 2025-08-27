@@ -1,5 +1,6 @@
-# Xeus-Lite demo
+# Focused beam
 
+[![Build and Deploy](https://github.com/andrej5elin/focused_beam/actions/workflows/deploy.yml/badge.svg)](https://github.com/andrej5elin/focused_beam/actions/workflows/deploy.yml)
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://andrej5elin.github.io/focused_beam/lab/?path=focused_scalar_beam.ipynb)
 
 This GitHub template allows you to create deployments of JupyterLite with a custom set of conda packages.
