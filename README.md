@@ -9,7 +9,7 @@ A discrete FFT-based technique to compute electromagnetic field in the vicinity 
 
 The notebooks are located in the *content* folder. You can download them an install ad use [jupyter lab](https://jupyter.org/install) to run them.
 
-You can also use the browser-based [jupyter lite](https://jupyterlite.readthedocs.io/) by clicking **try lite now** badge above or use the [following link](https://doi.org/10.1364/OE.565420]https://andrej5elin.github.io/focused_beam/lab/) and open the notebook.
+You can also use the browser-based [jupyter lite](https://jupyterlite.readthedocs.io/) by clicking **try lite now** badge above or use the [following link](https://andrej5elin.github.io/focused_beam/lab/) and open the notebook.
 
 ## References
 
