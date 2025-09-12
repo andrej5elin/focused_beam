@@ -18,4 +18,4 @@ liquid crystals. *Opt. Express* **33**, 32955–32975.
 
 [2] Richards, B. & Wolf, E. Electromagnetic diffraction in optical systems, II. Structure of the image field in an aplanatic system. *Proceedings of the Royal Society of London. Series A. Mathematical and Physical Sciences* **253**, 358–37.
 
-[3] Petelin, A., Fokusirani snopi svetlobe, *Obzornik za matematiko in fiziko*. 
+[3] Petelin, A., Fokusiran Gaussov snop, *Obzornik za matematiko in fiziko*. 
