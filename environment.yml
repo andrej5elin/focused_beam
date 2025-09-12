@@ -6,3 +6,4 @@ dependencies:
   - xeus-python
   - numpy
   - matplotlib
+  - scipy
