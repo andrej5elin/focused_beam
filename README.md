@@ -13,6 +13,22 @@ Implementation is done in python for the jupyter lab IDE. The notebooks are loca
 
 You can also use the browser-based [jupyter lite](https://jupyterlite.readthedocs.io/) by clicking **try lite now** badge above or use the [following link](https://andrej5elin.github.io/focused_beam/lab/) and open the notebook.
 
+Note that because of memory restrictions when running the code in a cloud, the above online tools are meant for testing and solving small problems. If you want to solve larger problems, please install jupyter lab as explained below:
+
+## Installation 
+
+I recommend using anaconda to build [jupyter lab](https://jupyter.org/install).
+
+```console
+$ conda create --name beam
+$ conda activate beam
+$ conda install numpy scipy matplotlib
+$ conda install jupyter
+$ jupyter lab
+```
+
+Download the notebooks and open in jupyter lab.
+
 ## References
 
 [[1]](https://doi.org/10.1364/OE.565420) Petelin, A. & Muševič, I. , Focused beam propagation in cholesteric
