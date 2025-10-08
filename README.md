@@ -17,7 +17,7 @@ Note that because of memory restrictions when running the code in a cloud, the a
 
 ## Installation 
 
-I recommend using anaconda to build [jupyter lab](https://jupyter.org/install).
+I recommend using [anaconda](https://www.anaconda.com/download) to build [jupyter lab](https://jupyter.org/install).
 
 ```console
 $ conda create --name beam
